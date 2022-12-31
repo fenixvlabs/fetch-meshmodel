@@ -2,9 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, make sure that you're in `meshery` repo. You should run:
+First, make sure that you're in `meshery` repo. Here is the link to the project.
 
-`make server` to get the Go server up and running.
+https://github.com/meshery/meshery
+
+You should run in `meshery` repository, `make server` to get the Go server up and running.
 
 Second, head back to `fetch-meshmodel` repo, and run the development server:
 
